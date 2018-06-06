@@ -1,0 +1,10 @@
+This text file explains 'CSaldanaPhD_Chapter3Data.csv', the supporting data file for Experiment 4 in Chapter 3 'The effect of communicative interaction on efficiency and linguistic complexity' of Carmen Saldana's doctoral thesis 'Simplifying linguistic complexity: Culture and cognition in language evolution' (2017). 
+
+Descriptions of the column headings are as follows:
+
+Condition --  the type of production task, either isolate production ('isolate') or dyadic communicative interaction ('dyads')
+SystemID --  the ID for each of the description systems provided either by a single participant or by a dyad, depending on the condition.
+ParticipantID --  the ID for each individual participant. The Participant ID is the same as the System ID with an additional number at the end, either 1 or 2. In the 'isolate' condition, it is always 1. For the 'dyads' condition, each number indicates each of the participants within the dyad.
+Trial# --  the trial number in which the description was provided (from 1 to 80)
+Description --  the description typed in by the participant
+Meaning -- the meaning described. (Note the PFV stands for perfective or terminated aspect; its absence, indicates imperfective or ongoing aspect.)
